@@ -8,6 +8,11 @@ int main()
 {
     cout << "Teste\n";
     cout << "Teste\n";
+    cout << "Teste\n";
+    cout << "Teste\n";
+    cout << "Teste\n";
+    cout << "Teste\n";
+    cout << "Teste\n";
     cout << "Tipos Numericos\n";
     cout << "===============\n";
     int i = 10;
